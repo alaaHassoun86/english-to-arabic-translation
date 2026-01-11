@@ -137,7 +137,7 @@ Use Beam Search decoding
 
 Train on larger datasets
 
-👤 Author
+👤 Authors
 
 Alaa Hassoun, Aya Sadek, Tala Khaddour
 Machine Translation Project – English to Arabic
