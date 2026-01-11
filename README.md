@@ -139,5 +139,5 @@ Train on larger datasets
 
 👤 Author
 
-Alaa Hassoun
+Alaa Hassoun, Aya Sadek, Tala Khaddour
 Machine Translation Project – English to Arabic
